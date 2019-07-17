@@ -23,6 +23,8 @@ Em um terminal, navegue até a pasta do projeto e execute:
 node install
 ```
 
+Este comando pode demorar um ou mais minutos. Ele irá baixar as dependências necessárias.
+
 ## Execução
 
 Ainda na pasta do projeto, execute:
